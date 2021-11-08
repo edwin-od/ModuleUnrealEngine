@@ -1,0 +1,8 @@
+YouTube: A deep dive into Nanite Virtualized Geometry
+
+git config http.postBuffer 2147483648
+-> 2GB Buffer size (maximum) | also possible value 500MB -> 524288000 
+https://stackoverflow.com/questions/15240815/git-fatal-the-remote-end-hung-up-unexpectedly/64565533#64565533
+
+phone prefix 01 06 or 07
+
