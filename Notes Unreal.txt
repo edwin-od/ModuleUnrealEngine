@@ -7,3 +7,4 @@ https://stackoverflow.com/questions/15240815/git-fatal-the-remote-end-hung-up-un
 phone prefix 01 06 or 07
 
 change editor max fps: command line -> t.MaxFPS 30
+
