@@ -8,3 +8,5 @@ phone prefix 01 06 or 07
 
 change editor max fps: command line -> t.MaxFPS 30
 
+To use Material with Decal -> in Material, change Material Domain to DefferedDecal and BlendMode to Translucent
+
